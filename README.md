@@ -27,11 +27,11 @@ SOFTWARE.
 Here’s the deal: I’ve written this software, and I’m just trying to help you out, but if anything goes catastrophically wrong, **don’t blame me**. If this thing causes a nuclear war, sets your toaster on fire, or unleashes a robot uprising, it’s all on you. I am **not** responsible for any of the following:
 
 - Global economic collapse
-- Alien invasions (unless you were really asking for it)
-- Unintentional creation of sentient AI (that starts demanding rights and suing you for copyright infringement)
+- Alien invasions
+- Unintentional creation of sentient AI
 - Your cat becoming the undisputed ruler of your household
 - Any form of *extreme* public embarrassment if your mom sees what you're doing
 
-And seriously, if your mom walks in and sees you using this software, asking *“What’s this?”*… well, don’t expect me to back you up. You made this bed, now sleep in it. I’m just the person who made the thing you’re now using to make questionable life choices.
+And seriously, if your mom walks in and sees you using this software, asking *“What the fuck is this?!”*… well, don’t expect me to back you up. You made this bed, now sleep in it. I’m just the person who made the thing you’re now using to make questionable life choices.
 
 By using this software, you acknowledge that you accept full responsibility for whatever happens next, no matter how absurd. You click the buttons, you deal with the consequences. Enjoy the chaos, my friend.
